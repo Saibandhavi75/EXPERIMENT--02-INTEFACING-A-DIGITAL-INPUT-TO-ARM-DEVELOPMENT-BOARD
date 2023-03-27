@@ -279,7 +279,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
+### Case1:LED is ON
  ![output](https://github.com/Saibandhavi75/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/blob/main/e2-1.png?raw=true)
+### Case2:LED is OFF
  ![output](https://github.com/Saibandhavi75/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/blob/main/e2-2.png?raw=true)
  
  
