@@ -280,7 +280,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
  ![output](https://github.com/Saibandhavi75/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/blob/main/e2-1.png?raw=true)
- ![output](https://github.com/Saibandhavi75/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/blob/main/e2-1.png?raw=true)
+ ![output](https://github.com/Saibandhavi75/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/blob/main/e2-2.png?raw=true)
  
  
  
